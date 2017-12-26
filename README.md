@@ -1,6 +1,5 @@
-# TicketServiceQAChallenge
 # Labs TicketServiceQAChallenge
-  Funcational Requirments.
+    # Funcational Requirments.
     1. Find the number of seats available within the venue
     2. Find and hold the best available seats for a given customer
     3. Reserve and commit a specific group of seats for a given customer
