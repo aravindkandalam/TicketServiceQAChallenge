@@ -12,6 +12,7 @@
     3. Each hold will expire in 30 seconds
     4. Maximum venue seats is 500
 
+
  # Testing
     1. Test scenaiors are provided under the "Test/Funcational" folder. Please refer to TicketService.feature file
     2. Test scenaiors are writtle gherkin format
